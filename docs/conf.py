@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"pycounts"
+project = u"pycounts_shrutiv_test"
 copyright = u"2024, Shruti Seetharam"
 author = u"Shruti Seetharam"
 
